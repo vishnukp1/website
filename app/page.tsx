@@ -1,10 +1,9 @@
-// 
 import React from 'react';
 
 const page = () => {
   return (
     <div>
-      <h1>sdfhjaskdl</h1>
+      <h1>hii</h1>
     </div>
   );
 }
