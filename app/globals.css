@@ -1,11 +1,8 @@
 @import "tailwindcss";
 
 
-:root {
-  --font-open-sans: 'Open Sans', sans-serif;
-  --font-laila: 'Laila', serif;
-}
 
-body {
-  font-family: var(--font-open-sans);
-}
+
+
+
+
