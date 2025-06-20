@@ -1,10 +1,12 @@
 import React from 'react';
+import Services from "./components/service/Services"
+import BestService from './components/bestService/BestService';
 
 const page = () => {
   return (
     <div>
-      <h1>hii</h1>
-      <h1>wowo</h1>
+      <Services/>
+      <BestService/>
     </div>
   );
 }
